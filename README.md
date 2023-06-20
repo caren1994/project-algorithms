@@ -1,13 +1,44 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Algoritmos em Python
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Sobre
+Este projeto tem como objetivo desenvolver habilidades de resolução de problemas e otimização de algoritmos em Python, aprimorando a capacidade de implementar soluções para uma variedade de desafios do dia a dia.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Habilidades Exercitadas
+- **Lógica de programação:** O projeto oferece oportunidades para aprimorar a lógica de programação ao resolver problemas e otimizar algoritmos.
+- **Interpretação de problemas:** Serão apresentados problemas para resolver, o que ajudará a desenvolver a capacidade de interpretar e entender os requisitos de um desafio.
+- **Interpretação de código legado:** Além de resolver problemas, você terá a oportunidade de praticar a interpretação de código existente, compreendendo seu funcionamento e fazendo melhorias.
+- **Otimização de resolução de problemas:** Ao enfrentar problemas, será necessário otimizar a eficiência e a velocidade das soluções propostas.
+
+
+## Tecnologias
+Este projeto utiliza as seguintes tecnologias:
+
+- **Python**;
+- **Pytest**;
+- **Git**;
+- **Visual Studio Code**;
+
+## Como usar
+Para testar este projeto, precisará das seguintes ferramentas:
+
+- **Git**
+- **Python venv**
+
+Clone ou baixe o repositório
+```
+git clone https://github.com/vinibortoletto/python-algorithms.git
+```
+Entre no diretório
+```
+cd python-algorithms
+```
+
+Crie o ambiente virtual
+```
+python3 -m venv .venv && source .venv/bin/activate
+```
+
+Instale as dependências
+```
+python3 -m pip install -r dev-requirements.txt
+```

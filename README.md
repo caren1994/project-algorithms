@@ -26,7 +26,7 @@ Para testar este projeto, precisará das seguintes ferramentas:
 
 Clone ou baixe o repositório
 ```
-git clone https://github.com/vinibortoletto/python-algorithms.git
+git clone git@github.com:caren1994/project-algorithms.git
 ```
 Entre no diretório
 ```
